@@ -45,11 +45,12 @@ a
 #homeImg
 {
     max-width: 100%;
-    width:375px;
+    width:350px;
     height: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    object-fit:contain;
 }
 
 #homePara
